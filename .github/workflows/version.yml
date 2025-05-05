@@ -3,6 +3,7 @@ name: Semantic Versioning
 on:
   push:
     branches:
+
       - main  # or your default branc
   pull_request:
     types:
