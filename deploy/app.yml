@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: 'https://github.com/praddy1998/demo'
     targetRevision: develop
-    path: devops
+    path: deploy
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: default
